@@ -1,4 +1,4 @@
-Here is a diagram of what happening after new note update.
+Here is an example of updating a page after we add new note.
 
 ```mermaid
 
